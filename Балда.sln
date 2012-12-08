@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Балда", "Балда\Балда.csproj", "{E0C0D3B0-BD67-4B0C-AB9A-97C40642D09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C0D3B0-BD67-4B0C-AB9A-97C40642D09E}.Debug|x86.ActiveCfg = Debug|x86
+		{E0C0D3B0-BD67-4B0C-AB9A-97C40642D09E}.Debug|x86.Build.0 = Debug|x86
+		{E0C0D3B0-BD67-4B0C-AB9A-97C40642D09E}.Release|x86.ActiveCfg = Release|x86
+		{E0C0D3B0-BD67-4B0C-AB9A-97C40642D09E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
